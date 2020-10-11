@@ -41,13 +41,13 @@ $php index.php
 
 Notice : pastikan anda telah menjalankan RabbitMQ .<br>
 jika stap yang anda lakukan sesuai maka akan seperti ini :
-<img src="./public/start.png" max-width="200px" />
+<img src="./public/start.PNG" max-width="200px" />
 
 kemudian kirim antrean dari service-sendemail . anda bisa mendownload source code dari link ini
 [https://github.com/adehikmatfr/service-email.git](service-email) <br>
 
 jika antean sudah dikirim maka akan seperti ini :
-<img src="./public/success.png" max-width="200px" />
+<img src="./public/success.PNG" max-width="200px" />
 
 emailpun sudah terkirim .
 
